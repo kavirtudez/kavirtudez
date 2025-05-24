@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fcay1IdRggSs3Dbnli9pqTh9hjZAJrqS/view?usp=sharing](https://drive.google.com/file/d/1fcay1IdRggSs3Dbnli9pqTh9hjZAJrqS/view?usp=sharing)
 
-- ⚡ Fun fact **I still deliver great performance even if I am new to the area**
+- ⚡ Fun fact **I am never not in a competition, and my projects are too much to keep count now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
