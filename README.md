@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kazz</h1>
-<h3 align="center">A passionate fullstack developer from Philippines</h3>
+<h1 align="center">Hey there 👋 I'm Kazzandra Virtudez</h1>
+<h3 align="center">Full-Stack Developer | Data-Driven Thinker | Always Building from Curiosity</h3>
 
 - 🔭 I’m currently working on [my thesis (talk2dhand)](https://github.com/neinzaut/talk2dhandlms)
 
